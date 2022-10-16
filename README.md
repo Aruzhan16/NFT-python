@@ -19,8 +19,8 @@ headers = {
 
 LICENSE
 
-##requirements.txt
-###To create a project, you need to install libraries such as flask, psycopg2, request and create account in Moralis 
+## requirements.txt
+### •To create a project, you need to install libraries such as flask, psycopg2, request and create account in Moralis 
 
 
 
