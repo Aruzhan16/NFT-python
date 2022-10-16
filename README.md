@@ -1,10 +1,9 @@
 # NFT-python
-# NFT-python
 
 ## Installation
-####   .download file from src/ or install framework from requirements.txt  
-####   .unpackage project.
-####   .create own database
+####     •download file from src/ or install framework from requirements.txt  
+####     •unpackage project.
+####     •create own database
 
 ## Usage
 ### The website for information about our nft. In the search engine, you will need to enter the nft links and through the ### moralis database, you will find information about this nft.
